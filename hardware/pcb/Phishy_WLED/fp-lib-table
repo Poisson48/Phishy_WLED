@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "A:/Leo/kdrive/projets/Phishy_WLED/hardware/pcb/libs/744770122/KiCad")(options "")(descr ""))
+)

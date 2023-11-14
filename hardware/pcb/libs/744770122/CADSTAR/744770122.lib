@@ -1,0 +1,16 @@
+.744770122 :1 ;WURTH ELEKTRONIK - 744770122 - Power Inductor (SMD), 22 H, 4.1 A, Shielded, 5 A, WE-PD Series, 12mm x 12mm x 8mm
+INDPM120120X800N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 744770122
+~!Mouser2 Part Number (-)
+~!Mouser2 Price/Stock (-)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (744770122)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/5df985c0799d1d1baf5ad0b49bccb74f.pdf)
+~!Height (8mm)
+~!3D_Model (744770122)
+"744770122"
+1.1!U 2.1!U 

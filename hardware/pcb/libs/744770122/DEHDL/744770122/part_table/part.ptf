@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '744770122'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER2_PART_NUMBER", "MOUSER2_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "744770122" (!) = "", "INDPM120120X800N", "Inductors Precision Moulded", "", "", "WURTH ELEKTRONIK - 744770122 - Power Inductor (SMD), 22 H, 4.1 A, Shielded, 5 A, WE-PD Series, 12mm x 12mm x 8mm", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/5df985c0799d1d1baf5ad0b49bccb74f.pdf", "8 mm"
+END_PART
+
+END.
